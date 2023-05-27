@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lxon06
-- 👀 I’m interested in node.js for discord-bots
-- 🌱 I’m currently learning to make a web-dashboard for Discord.js
-- ❓  You know how to make a web-dashboard for discord.js? Send me a Message on Discord (Discord usertag: L5on#5405)
-- 💞️ I’m looking to idk
+- 👀 I’m interested in HTML5, CSS3 and JS
+- 🌱 I’m currently working on websites
+- ❓  You know some ideas for my hosted websites? Send it to me (Discord usertag: L5on#5405)
+- 💞️ I’m looking to become a business owner
 - 📫 How to reach me: You can reach me on Discord (Usertag: L5on#5405)
 
 <!---
